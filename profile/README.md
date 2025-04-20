@@ -16,7 +16,7 @@ Os repositórios aqui presentes estão organizados por finalidade, projeto ou si
 
 ## 🤝 Colaboração
 
-Contribuições são bem-vindas! Se você faz parte de um TCE/TCE ou é parceiro institucional, entre em contato para orientações sobre como contribuir com nossos projetos.
+Contribuições são bem-vindas! Se você faz parte de um Tribunal ou é parceiro institucional, entre em contato para orientações sobre como contribuir com nossos projetos.
 
 ## 📬 Contato
 
